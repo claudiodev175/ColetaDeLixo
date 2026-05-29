@@ -37,7 +37,7 @@ public class GrafoRotas {
 
         Conexao c = new Conexao(origem, destino, distanciaKm, descricao);
         conexoes.add(c);
-        System.out.println("✔  Conexão cadastrada: " + c);
+        System.out.println("✔  Conexao cadastrada: " + c);
     }
 
     // ── LISTAR LOCAIS ────────────────────────────────────────────────
